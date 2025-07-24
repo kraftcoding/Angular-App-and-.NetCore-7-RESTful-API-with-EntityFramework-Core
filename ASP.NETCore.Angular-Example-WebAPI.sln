@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NETCore.ArticlesWebAPI", "ASP.NETCore.Angular-Example-WebAPI\ASP.NETCore.ArticlesWebAPI.csproj", "{4C4D94DE-E2A9-4002-B0E7-5B58CAF94657}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Angular-Example-DBManagement.SQL", "Angular-Example-DBManagement.SQL\Angular-Example-DBManagement.SQL.sqlproj", "{A103FA2F-5F25-4633-8EBE-7671F9EC6A9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular-16-CRUD-Example", "Angular-16-CRUD-Example\Angular-16-CRUD-Example.csproj", "{30D428ED-6123-4FB1-88CE-DDAE661A36FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C4D94DE-E2A9-4002-B0E7-5B58CAF94657}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4D94DE-E2A9-4002-B0E7-5B58CAF94657}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4D94DE-E2A9-4002-B0E7-5B58CAF94657}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4D94DE-E2A9-4002-B0E7-5B58CAF94657}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A103FA2F-5F25-4633-8EBE-7671F9EC6A9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A103FA2F-5F25-4633-8EBE-7671F9EC6A9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A103FA2F-5F25-4633-8EBE-7671F9EC6A9D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A103FA2F-5F25-4633-8EBE-7671F9EC6A9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A103FA2F-5F25-4633-8EBE-7671F9EC6A9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A103FA2F-5F25-4633-8EBE-7671F9EC6A9D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{30D428ED-6123-4FB1-88CE-DDAE661A36FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D428ED-6123-4FB1-88CE-DDAE661A36FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D428ED-6123-4FB1-88CE-DDAE661A36FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D428ED-6123-4FB1-88CE-DDAE661A36FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
